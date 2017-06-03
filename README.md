@@ -17,3 +17,4 @@ This is sample project to create a custom marker with images(from URL or Drawabl
 3. Choose Build > Make Project in Android Studio
 4. To install on your test device:
    1. Press Run > Run
+# AndroidPirate3
